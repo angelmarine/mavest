@@ -152,7 +152,9 @@ and prices near the peaks.
     if we have more detailed data.
 
 ## Future Works
-We would like develop this hypothesis further so that it could be adopted in trading strategy.
+Our current work provide some evidence that there are some correlation between two variables.
+However, this information might not be significant enough to be incorporated in real trading strategy.
+We would like to deep further into other factors (such as news, stock reports) that could be connected to keyword and price so that it can actually act as a signal for a price change.
 
 
 ## Extras
